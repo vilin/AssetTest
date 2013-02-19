@@ -8,9 +8,9 @@
 
 #import "accAppDelegate.h"
 
-#import "accMasterViewController.h"
+#import "accMasterViewController.h" 
 
-@implementation accAppDelegate
+@implementation accAppDelegate 
 
 @synthesize managedObjectContext = _managedObjectContext;
 @synthesize managedObjectModel = _managedObjectModel;
